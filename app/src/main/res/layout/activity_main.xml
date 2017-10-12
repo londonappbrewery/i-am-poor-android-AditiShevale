@@ -32,4 +32,5 @@
         android:layout_marginTop="43dp"
         android:text="I Am Poor"
         android:textSize="40dp" />
+
 </RelativeLayout>
